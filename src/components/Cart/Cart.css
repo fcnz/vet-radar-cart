@@ -1,0 +1,11 @@
+.cart-overlay {
+  position: absolute;
+  top: 45px;
+  right: 0;
+  width: 85vw;
+  max-width: 400px;
+  padding: 1em;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+}

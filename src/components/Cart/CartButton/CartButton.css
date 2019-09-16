@@ -1,0 +1,13 @@
+.count-indicator {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  height: 15px;
+  width: 15px;
+  font-size: 9px;
+  border: 1px solid red;
+  border-radius: 7.5px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
